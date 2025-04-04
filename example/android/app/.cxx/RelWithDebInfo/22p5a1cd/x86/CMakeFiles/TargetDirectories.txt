@@ -1,0 +1,2 @@
+C:/Users/devel/Documents/Etome-Fariza/installed_apps/example/android/app/.cxx/RelWithDebInfo/22p5a1cd/x86/CMakeFiles/edit_cache.dir
+C:/Users/devel/Documents/Etome-Fariza/installed_apps/example/android/app/.cxx/RelWithDebInfo/22p5a1cd/x86/CMakeFiles/rebuild_cache.dir
